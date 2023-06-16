@@ -1,9 +1,9 @@
 {
     "etws2103_software":
     {
-        "LatestVerison":"B1.1.22",
+        "LatestVerison":"B1.1.23",
         "Url":"https://drive.weixin.qq.com/s?k=AB0AHQc8AA0tBPLfBc",
-        "UpdateTime":"2023-06-09",
-            "ReleaseNote":"\n  1.调试动态范围测试\n  2.完善一些界面布局问题\n "
+        "UpdateTime":"2023-06-16",
+            "ReleaseNote":"\n  1.先不要下载，我在调版本服务器的问题 "
     }
 }
